@@ -1,0 +1,9 @@
+# Keep Windows line endings so VBA can import the modules
+*.bas text eol=crlf
+*.cls text eol=crlf
+*.frm text eol=crlf
+
+# Binary Office files
+*.xlsx binary
+*.xlsm binary
+*.xls binary

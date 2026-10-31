@@ -1,0 +1,10 @@
+# Excel temporary / lock files
+~$*
+*.tmp
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Generated reports
+Reports/
